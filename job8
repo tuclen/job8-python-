@@ -1,0 +1,28 @@
+class Donkey:
+	a = 0
+	n = 1
+	def input(self, name, load, year):
+		self.name = name
+		self.load = load
+		self.year = year - a
+	def cry(self)
+		while n < year
+			print ('Eeyore')
+			n = n+1
+	def work_hard(self, unit):
+		self.unit = unit;
+		if unit > 5 
+			a = unit // 5
+	def carry(self, number):
+		self.number = number
+		if number = load 
+			print('True')
+		else 
+			print('False')
+		
+d = Donkey('Pinoccio', 10, 5)
+print(d) 
+print(d.cry())
+d.work_hard(16)
+print(d.cry())
+print(d.carry(10))
